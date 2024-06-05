@@ -1,4 +1,4 @@
-#Screenshots of the App
+# Screenshots of the App
 
 <img src="https://github.com/ShreeCS/Stocks-Android-App/assets/113189060/970d1ead-3e2f-4244-b473-151754547b7c" alt="Screenshot_20230622_235656" width="25%">
 <img src="https://github.com/ShreeCS/Stocks-Android-App/assets/113189060/80a70e2d-2978-4126-9f88-40b46e1d2c50" alt="Screenshot_20230622_235743" width="25%">
